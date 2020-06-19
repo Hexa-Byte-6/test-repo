@@ -1,1 +1,3 @@
 Add something here and the push your code.
+
+Be sure to pull it first and then push it.
