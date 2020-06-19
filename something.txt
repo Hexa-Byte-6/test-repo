@@ -1,3 +1,9 @@
-Add something here and the push your code.
+Steps: 
 
-Be sure to pull it first and then push it.
+1)git clone <repo-link>
+2)git switch <branch-name>
+3)You edit your code
+*4)You pull first : git pull origin <branch-name>
+5)git add .
+6)git commit -m "commit message"
+7)git push origin <branch-name>
